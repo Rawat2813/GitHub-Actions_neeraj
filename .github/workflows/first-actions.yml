@@ -1,5 +1,4 @@
-name: My First GitHub Code Neeraj
-
+name: My Name is Neeraj and its my first GitHub Action
 on: [push]
 
 jobs:
